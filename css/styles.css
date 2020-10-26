@@ -1,0 +1,14 @@
+body {
+    background-color: #eee;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: steelblue;
+}
+
+.p1 {
+    font-weight: 600;
+    color: rgb(12, 80, 80);
+}
