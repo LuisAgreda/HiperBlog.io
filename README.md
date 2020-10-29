@@ -1,4 +1,4 @@
-# HiperBlog :fa-heart:
+# HiperBlog 💚
 Un blog Master donde estoy a prendiendo a usar Git y GitHub
 > HiperBlog de practica
 
