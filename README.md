@@ -3,7 +3,7 @@ Un blog Master donde estoy a prendiendo a usar Git y GitHub
 > HiperBlog de practica
 
 # <p>Seccion 2</p>
-solo es mas texti sin sentido para rellenar en lo posible este archivo .md
+solo es mas texto sin sentido para rellenar en lo posible este archivo .md
 
 > alguna imagen
 
